@@ -1,9 +1,11 @@
 .postList {
-    list-style-type: none;
+    list-style-type: none; 
+    
 
     & > li {
         line-height: 2rem;
         margin-bottom: 50px;
+   
 
         & a {
             text-decoration: none;
@@ -35,6 +37,7 @@
 .diaryPost {
     & > h2, div, p {
         line-height: 2rem;
+        width: 90vw;
     }
 
     div {
@@ -129,6 +132,10 @@
 }
 
 
+.maincontent {
+    margin: 0 ;
+}
+
 
 @media (max-width: 768px) {
   .loginForm {
@@ -146,7 +153,67 @@
   .loginForm button {
     width: 100%;
     margin-top: 10px;
+   
   }
+
+ .postForm textarea {
+        padding: 6px;
+        margin-bottom: 8px;
+        font-size: 10pt;
+        height: 40vh;
+        resize: none;
+    }
+
+      .postHeadHeader {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            margin: 10px;
+        }
+
+       .postForm button {
+        background-color: #4e6ea2;
+        height: 30px;
+        color: white;
+        border-radius: 24px;
+        font-size: 16pt;
+        font-weight: bold;
+        cursor: pointer;
+        border: none;
+        margin-bottom: 20px;
+    }
+
+    .diaryPost h2,  p {
+     
+        line-height: 2rem;
+        width: 90vw;
+        margin: 10px;
+    }
+
+     
+
+.navstyle
+{ 
+    nav ul li{
+    margin-left: -5px;
+    margin-right: 20px;
+    
+}
+
+span {
+    margin-right: 15px;
+}
+
+div span {
+    display: none;
+}
+
+}
+
+.postList div {
+    margin-left: 10px;
+}
+
 }
 
 
