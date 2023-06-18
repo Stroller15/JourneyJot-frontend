@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useAuthContext } from '../hooks/useAuthContext';
 import { useLogout } from '../hooks/useLogout.js';
+import styles from '../styles/styles.module.scss'; 
 
 const NavBar = () => {
     const { user } = useAuthContext();
@@ -9,7 +10,7 @@ const NavBar = () => {
     const handleClick = () => logout();
 
     return (
-        <header>
+        <header className={styles.navstyle}>
             <nav>
                 <ul>
                     <li> 
