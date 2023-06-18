@@ -85,6 +85,7 @@
     }
 }
 
+
 .loginForm {
     width: 500px;
     display: flex;
@@ -126,3 +127,27 @@
         cursor: pointer;
     }
 }
+
+
+
+@media (max-width: 768px) {
+  .loginForm {
+    width: 90%;
+  }
+
+  .loginForm h3 {
+    text-align: center;
+  }
+
+  .loginForm input {
+    width: 100%;
+  }
+
+  .loginForm button {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
+
+
