@@ -42,7 +42,7 @@ const PostForm = () => {
 
     return (
         <>
-            <form className={styles.postForm} onSubmit={handleSubmit(onSubmit)}>
+            <form className={styles.postForm} onSubmit={handleSubmit(onSubmit)} >
                 <div>
                     <h3> Create a post </h3>
                 </div>
