@@ -30,7 +30,7 @@ const NavBar = () => {
                 </div>
 
             ) : (
-                <div>
+                <div className={styles.loginSignup} >
                     <Link to="/api/login"> Login </Link>
                     <Link to="/api/signup"> Signup </Link>
                 </div>
