@@ -33,9 +33,9 @@ Form Validation: Validator <br>
 ![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/1cdacdad-04c3-482b-8e21-0107bb925381)
 ![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/ebd59409-a730-4bec-8ae4-0654192d3fca)
 ![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/2457659d-4782-4eab-a418-a19759e9607d)
-![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/e9ea6c8c-97ea-4ebc-9b1b-dffa10c5598d)
+![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/e9ea6c8c-97ea-4ebc-9b1b-dffa10c5598d) <span>![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/a8c4d7f0-61db-46c6-80bd-7d158539c99a)</span>
 
-![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/a8c4d7f0-61db-46c6-80bd-7d158539c99a)
+
 
 
 
