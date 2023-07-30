@@ -9,6 +9,8 @@ JourneyJot is an intuitive and secure diary app built with React, Express, Node.
 
 🔒 Utilizing JWT and bcrypt, JourneyJot ensures that user data remains confidential and protected. With email and password authentication, users can securely create, delete, and read their diary entries. 📅🔑
 
+[Backend Repo](https://github.com/Stroller15/JourneyJot-backend)
+
 ## 🌟 Key Features:
 
 📝 Create and compose diary entries effortlessly <br>
@@ -26,7 +28,7 @@ Database: MongoDB <br>
 Authentication: JWT, bcrypt <br>
 Form Validation: Validator <br>
 
-##🔍 View
+## 🔍 View
 
 ![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/07eb5602-24c9-4768-964b-fcf497891db5)
 ![image](https://github.com/Stroller15/JourneyJot-frontend/assets/84174011/f1ea7a9e-3389-47e4-9c8c-484d5a47855c)
